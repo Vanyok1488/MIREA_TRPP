@@ -1,2 +1,6 @@
 123test izmeneniya 2.0
+<<<<<<< HEAD
 aaaaa
+=======
+oaoaooa
+>>>>>>> new_branch
